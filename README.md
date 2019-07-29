@@ -4,4 +4,4 @@ This repository contains the files for my project : Forecasting Beijing Air Qual
 
 Book == Dataset File
 
-Project(Air_quality) == Project Code
+Air_Quality == Project Code
