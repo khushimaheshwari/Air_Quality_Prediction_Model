@@ -2,6 +2,6 @@
 
 This repository contains the files for my project : Forecasting Beijing Air Quality.
 
-Book == Dataset File
+book.csv == Dataset File
 
-Air_Quality == Project Code
+Air_Quality.ipynb == Project Code
